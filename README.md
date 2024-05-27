@@ -78,3 +78,12 @@ npm run build
 ```bash
 NODE_ENV=production node server.js
 ```
+
+
+### .env.local in client
+```
+REACT_APP_CONTENTFUL_SPACE_ID=4tlsutsg5se1
+REACT_APP_CONTENTFUL_ACCESS_TOKEN=_BZqCnlzI0RuHvLPcOIfNxjUfS082jSJ9WmevnXSLdk
+REACT_APP_GOOGLE_ANALYTICS_TRACKING_ID=
+REACT_APP_SERVER_URI=http://127.0.0.1:5000/
+```
